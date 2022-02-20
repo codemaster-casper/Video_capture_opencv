@@ -1,2 +1,2 @@
 # Video_capture_opencv
-Capture video from a camera using open cv
+The repository contains a simple code to show how to capture video from a camera using open cv.
